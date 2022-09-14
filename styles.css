@@ -190,3 +190,53 @@ button {
     flex-direction: column;
   }
 }
+
+
+.head {
+background-color: rgb(80, 207, 242);
+text-align: center;
+margin-left:33%;
+ margin-right: 33%;
+margin-top: 2%;
+}
+
+.qone {
+  background-color: rgb(219, 215, 215);
+  text-align:center;
+  margin-top: 3%;
+ margin-left:25%;
+ margin-right: 25%;
+ max-height: 20%;
+}
+.qtwo {
+  background-color: rgb(143, 157, 234);
+  text-align:center;
+  margin-top: 2%;
+ margin-left:25%;
+ margin-right: 25%;
+ max-height: 20%;
+}
+.qthree {
+  background-color: rgb(218, 244, 196);
+  text-align:center;
+  margin-top: 3%;
+ margin-left:25%;
+ margin-right: 25%;
+ max-height: 20%;
+}
+.qfour {
+  background-color: rgb(239, 163, 215);
+  text-align:center;
+  margin-top: 3%;
+ margin-left:25%;
+ margin-right: 25%;
+ max-height: 20%;
+}
+.ft {
+  background-color: rgb(120, 92, 234);
+  text-align:center;
+  margin-top: 3%;
+ margin-left:40%;
+ margin-right: 40%;
+ max-height: 20%;
+}
